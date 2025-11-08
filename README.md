@@ -10,10 +10,6 @@ A classic Minesweeper game implemented in Java using Swing for the graphical use
 - Automatically reveals adjacent empty cells
 - Basic win/loss detection
 
-## Screenshots
-
-_(Add screenshots here if you like)_
-
 ## Getting Started
 
 These instructions will help you run the project on your local machine.
